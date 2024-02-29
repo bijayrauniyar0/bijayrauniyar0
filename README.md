@@ -13,7 +13,10 @@
 
 
 ###
-
+<div align = "right">
+  <img src="https://github.com/bijayrauniyar0.png" height="150" alt="profile image" style="border-radius: 50%; margin-left: 20px;" />
+</div>
+</div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
