@@ -45,21 +45,6 @@
 
 <br clear="both">
 
-## Projects
-
-### Project Name 1
-Description: Brief description of the project.
-
-![Project 1](link_to_screenshot_or_gif)
-
-GitHub Repository: [Repository Name](link_to_repository)
-
-### Project Name 2
-Description: Brief description of the project.
-
-![Project 2](link_to_screenshot_or_gif)
-
-GitHub Repository: [Repository Name](link_to_repository)
 
 <!-- Add more projects as needed -->
 
