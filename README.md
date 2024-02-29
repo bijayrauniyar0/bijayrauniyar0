@@ -40,7 +40,8 @@
 
 <br clear="both">
 
-<[![Snake animation](https://github.com/bijayrauniyar0/bijayrauniyar0/blob/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 ###
