@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imglip.com/65efzo.gif](https://app.gemoo.com/share/image-annotation/621894640320606208?codeId=P50nLaeY4dljg&origin=imageurlgenerator)"  />
+<img align="right" height="150" src="https://drive.google.com/file/d/1A9RZjJ-p10fjLoz0trL1hnucJSphmUow/view"  />
 
 ###
 
