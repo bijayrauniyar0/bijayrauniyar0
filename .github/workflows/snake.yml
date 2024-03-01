@@ -6,12 +6,10 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - master
+      - master
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -19,7 +17,7 @@ jobs:
       - name: Generate snake game from GitHub contribution grid
         uses: Platane/snk@v3.2.0
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.actor }}
           outputs: dist/snake.svg?palette=github-dark
 
       - name: Push snake.svg to the output branch
