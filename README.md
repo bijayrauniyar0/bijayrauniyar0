@@ -47,7 +47,7 @@
 <br clear="both">
 
 
-[![Snake animation](https://github.com/bijayrauniyar0/bijayrauniyar0/blob/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+![Snake animation](https://raw.githubusercontent.com/bijayrauniyar0/output/dist/snake.svg)
 
 
 ###
