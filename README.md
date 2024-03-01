@@ -47,7 +47,7 @@
 <br clear="both">
 
 
-![Snake animation](https://raw.githubusercontent.com/bijayrauniyar0/output/dist/snake.svg)
+<img src = "https://raw.githubusercontent.com/bijayrauniyar0/bijayrauniyar0/output/snake.svg" alt= "sanke animation">
 
 
 ###
