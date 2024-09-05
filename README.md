@@ -17,9 +17,16 @@
 
  # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=bijayrauniyar0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=bijayrauniyar0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bijayrauniyar0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bijayrauniyar0&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+</div>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijayrauniyar0&theme=dark&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijayrauniyar0&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
 
 <br/>
 ## 🏆 GitHub Trophies
