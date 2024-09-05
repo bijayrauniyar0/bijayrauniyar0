@@ -19,7 +19,7 @@
 </div>
 
 </div>
-<div align="left" style = "display: flex; gap: 16px;">
+<div align="left">
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -33,11 +33,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="csharp logo"  />
   <img width="15" /> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50">
+ <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50">
+ <img width="12" />
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
+ <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50">
+ <img width="12" />
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50">
+ <img width="12" />
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="50">
+<img width="12" />
 
 </div>
 
