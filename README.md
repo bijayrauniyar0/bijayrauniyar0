@@ -32,8 +32,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="csharp logo"  />
   <img width="15" /> -->
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html5.png" height="50">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css3.png" height="50">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html5/html5.png" height="50">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css3/css3.png" height="50">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50">
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50">
