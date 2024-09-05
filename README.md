@@ -20,7 +20,7 @@
 
 </div>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -28,11 +28,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="csharp logo"  />
-  <img width="15" />
+  <img width="15" /> -->
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50">
+ <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="50">
+
 </div>
 
 ###
