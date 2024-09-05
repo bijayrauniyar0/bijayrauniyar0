@@ -15,8 +15,6 @@
 
 # 📊 GitHub Stats:
 
- # 📊 GitHub Stats:
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bijayrauniyar0&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
