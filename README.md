@@ -14,9 +14,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bijayrauniyar0&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 10px;" />
+  <img width="12px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijayrauniyar0&theme=dark&hide_border=true" />
 </div>
-<img height="20px">
+<img height="12px">
 <div align="center" style="margin-top: 50px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijayrauniyar0&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
